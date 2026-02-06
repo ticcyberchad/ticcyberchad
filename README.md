@@ -1,3 +1,4 @@
+<img src="banner-ticcyberchad.png" width="100%">
 <p align="center">
   <img src="https://img.shields.io/badge/TIC--CYBER--CHAD-Cybersecurity-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Community-Tchad-success?style=for-the-badge">
