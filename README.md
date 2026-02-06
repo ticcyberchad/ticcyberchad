@@ -9,8 +9,7 @@
 <h3 align="center">Initiative communautaire en cybersécurité & technologies</h3>
 
 <p align="center">
-  <em>« > Initiative communautaire dédiée à la défense du cyberespace, au partage de connaissances et au développement des talents en cybersécurité au Tchad.
- »</em>
+  <em>> Initiative communautaire dédiée à la défense du cyberespace, au partage de connaissances et au développement des talents en cybersécurité au Tchad.</em>
 </p>
 
 ---
