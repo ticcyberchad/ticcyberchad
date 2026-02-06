@@ -9,7 +9,8 @@
 <h3 align="center">Initiative communautaire en cybersécurité & technologies</h3>
 
 <p align="center">
-  <em>« Sécuriser aujourd'hui pour innover demain »</em>
+  <em>« > Initiative communautaire dédiée à la défense du cyberespace, au partage de connaissances et au développement des talents en cybersécurité au Tchad.
+ »</em>
 </p>
 
 ---
@@ -25,6 +26,11 @@ Notre objectif est de **construire une communauté**, apprendre ensemble et cré
 - 🛠️ Créer et partager des outils open-source
 - 🎓 Apprendre et former (entre pairs)
 - 🤝 Rassembler la communauté tech tchadienne
+
+---
+
+## 🌍 Notre vision
+Construire une communauté cybersécurité forte, collaborative et engagée, capable de protéger les systèmes numériques et d’accompagner l’innovation technologique au Tchad et en Afrique.
 
 ---
 
@@ -53,18 +59,58 @@ _(Les projets évolueront progressivement avec la communauté.)_
 
 ---
 
-## 💪 Compétences & technologies
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+## 🛡️ Compétences en Cybersécurité
+
+### 🔐 Sécurité Opérationnelle
+- SOC (Security Operations Center)
+- Surveillance & Analyse des logs
+- Détection d’incidents & réponse (IR)
+- SIEM (concepts & pratiques)
+
+### 🧑‍💼 Identity & Access Management (IAM)
+- Gestion des identités
+- Contrôle des accès
+- Authentification & Autorisation
+- Principes Zero Trust
+
+### 🕵️ Pentesting & Sécurité Offensive
+- Tests d’intrusion (Web & Systèmes)
+- Reconnaissance & exploitation
+- OWASP Top 10
+- Sécurité des applications
+
+### 🔎 OSINT
+- Collecte d’informations ouvertes
+- Investigation numérique
+- Threat Intelligence (bases)
+- Analyse de sources publiques
+
+### 🔑 Cryptologie & Sécurité des Données
+- Principes de cryptographie
+- Chiffrement & hachage
+- Gestion des clés
+- Sécurité des communications
 
 ---
 
+## 💻 Technologies & Outils
+![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Scripting-3776AB?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Versioning-F05032?logo=git&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-Basics-blue)
+
+
+---
 ## 📊 Activité GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ticcyberchad&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ticcyberchad&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ticcyberchad&show_icons=true&count_private=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ticcyberchad&layout=compact&hide_border=true" />
+</p>
 
 ---
 
@@ -88,14 +134,12 @@ Cette initiative est **ouverte à tous** :
 ---
 
 ## 📞 Restons connectés
-- 💼 LinkedIn (à venir)
-- 🐦 Twitter / X (à venir)
-- 💬 Discord (à venir)
-- 🌐 Site web (à venir)
+- 🐦 Twitter / X : https://x.com/CyberTchad
+- 💬 Discord : à venir
+- 💼 LinkedIn : à venir
+- 🌐 Site web : à venir
 
-_(Les liens seront ajoutés au fur et à mesure.)_
-
----
+ ---
 
 ## ⭐ Appel à l’action
 👉 **Star** ⭐  
